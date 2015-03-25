@@ -1,0 +1,14 @@
+{
+  "name": "march-madness-api",
+  "version": "0.0.1",
+  "description": "Simple API for NCAA March Madness tournament",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Montana Flynn",
+  "license": "MIT",
+  "dependencies": {
+    "aoot": "^0.1.6"
+  }
+}

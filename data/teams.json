@@ -1,0 +1,422 @@
+[
+    {
+        "seed": 16,
+        "team": "Pirates",
+        "college": "Hampton",
+        "conference": "MAAC"
+    },
+    {
+        "seed": 16,
+        "team": "Jaspers",
+        "college": "Manhattan",
+        "conference": "MAAC"
+    },
+    {
+        "seed": 11,
+        "team": "Rebels",
+        "college": "Ole Miss",
+        "conference": "SEC"
+    },
+    {
+        "seed": 11,
+        "team": "Cougars",
+        "college": "BYU",
+        "conference": "SEC"
+    },
+    {
+        "seed": 16,
+        "team": "Colonials",
+        "college": "Robert Morris",
+        "conference": "SEC"
+    },
+    {
+        "seed": 16,
+        "team": "Ospreys",
+        "college": "North Florida",
+        "conference": "Atlantic Sun"
+    },
+    {
+        "seed": 11,
+        "team": "Flyers",
+        "college": "Dayton",
+        "conference": "Mountain West"
+    },
+    {
+        "seed": 11,
+        "team": "Broncos",
+        "college": "Boise State",
+        "conference": "Mountain West"
+    },
+    {
+        "seed": 14,
+        "team": "Panthers",
+        "college": "Georgia State",
+        "conference": "Big 12"
+    },
+    {
+        "seed": 3,
+        "team": "Bears",
+        "college": "Baylor",
+        "conference": "Big 12"
+    },
+    {
+        "seed": 4,
+        "team": "Tar Heels",
+        "college": "North Carolina",
+        "conference": "AAC"
+    },
+    {
+        "seed": 13,
+        "team": "Crimson",
+        "college": "Harvard",
+        "conference": "AAC"
+    },
+    {
+        "seed": 5,
+        "team": "Jaspers",
+        "college": "Arkansas",
+        "conference": "SEC"
+    },
+    {
+        "seed": 12,
+        "team": "Terriers",
+        "college": "Wofford",
+        "conference": "SEC"
+    },
+    {
+        "seed": 6,
+        "team": "Musketeers",
+        "college": "Xavier",
+        "conference": "Big East"
+    },
+    {
+        "seed": 1,
+        "team": "Wildcats",
+        "college": "Kentucky",
+        "conference": "SEC"
+    },
+    {
+        "seed": 14,
+        "team": "Jaspers",
+        "college": "UAB",
+        "conference": "SEC"
+    },
+    {
+        "seed": 3,
+        "team": "Cyclones",
+        "college": "Iowa State",
+        "conference": "Big 12"
+    },
+    {
+        "seed": 11,
+        "team": "Bruins",
+        "college": "UCLA",
+        "conference": "American"
+    },
+    {
+        "seed": 7,
+        "team": "Mustangs",
+        "college": "SMU",
+        "conference": "American"
+    },
+    {
+        "seed": 8,
+        "team": "Bearcats",
+        "college": "Cincinnati",
+        "conference": "American"
+    },
+    {
+        "seed": 9,
+        "team": "Boilermakers",
+        "college": "Purdue",
+        "conference": "American"
+    },
+    {
+        "seed": 1,
+        "team": "Wildcats",
+        "college": "Villanova",
+        "conference": "Big East"
+    },
+    {
+        "seed": 16,
+        "team": "Leopards",
+        "college": "Lafayette",
+        "conference": "Big East"
+    },
+    {
+        "seed": 3,
+        "team": "Fighting Irish",
+        "college": "Notre Dame",
+        "conference": "ACC"
+    },
+    {
+        "seed": 14,
+        "team": "Huskies",
+        "college": "Northeastern",
+        "conference": "ACC"
+    },
+    {
+        "seed": 6,
+        "team": "Bulldogs",
+        "college": "Butler",
+        "conference": "Big East"
+    },
+    {
+        "seed": 11,
+        "team": "Longhorns",
+        "college": "Texas",
+        "conference": "Big East"
+    },
+    {
+        "seed": 8,
+        "team": "Wolfpack",
+        "college": "North Carolina State",
+        "conference": "ACC"
+    },
+    {
+        "seed": 9,
+        "team": "Tigers",
+        "college": "LSU",
+        "conference": "ACC"
+    },
+    {
+        "seed": 2,
+        "team": "Wildcats",
+        "college": "Arizona",
+        "conference": "Pac-12"
+    },
+    {
+        "seed": 15,
+        "team": "Tigers",
+        "college": "Texas Southern",
+        "conference": "Pac-12"
+    },
+    {
+        "seed": 4,
+        "team": "Hoyas",
+        "college": "Georgetown",
+        "conference": "Big East"
+    },
+    {
+        "seed": 13,
+        "team": "Eagles",
+        "college": "Eastern Washington",
+        "conference": "Big East"
+    },
+    {
+        "seed": 5,
+        "team": "Utes",
+        "college": "Utah",
+        "conference": "Pac-12"
+    },
+    {
+        "seed": 12,
+        "team": "Lumberjacks",
+        "college": "Stephen F. Austin",
+        "conference": "Pac-12"
+    },
+    {
+        "seed": 10,
+        "team": "Buckeyes",
+        "college": "Ohio State",
+        "conference": "Atlantic 10"
+    },
+    {
+        "seed": 7,
+        "team": "Rams",
+        "college": "VCU",
+        "conference": "Atlantic 10"
+    },
+    {
+        "seed": 1,
+        "team": "Blue Devils",
+        "college": "Duke",
+        "conference": "ACC"
+    },
+    {
+        "seed": 16,
+        "team": "Colonials",
+        "college": "Robert Morris",
+        "conference": "Atlantic Sun"
+    },
+    {
+        "seed": 2,
+        "team": "Cavaliers",
+        "college": "Virginia",
+        "conference": "ACC"
+    },
+    {
+        "seed": 15,
+        "team": "Bruins",
+        "college": "Belmont",
+        "conference": "ACC"
+    },
+    {
+        "seed": 7,
+        "team": "Spartans",
+        "college": "Michigan State",
+        "conference": "Big Ten"
+    },
+    {
+        "seed": 10,
+        "team": "Bulldogs",
+        "college": "Georgia",
+        "conference": "Big Ten"
+    },
+    {
+        "seed": 8,
+        "team": "Aztecs",
+        "college": "San Diego State",
+        "conference": "Mountain West"
+    },
+    {
+        "seed": 9,
+        "team": "Red Storm",
+        "college": "St. John's",
+        "conference": "Mountain West"
+    },
+    {
+        "seed": 3,
+        "team": "Sooners",
+        "college": "Oklahoma",
+        "conference": "Big 12"
+    },
+    {
+        "seed": 14,
+        "team": "Great Danes",
+        "college": "Albany",
+        "conference": "Big 12"
+    },
+    {
+        "seed": 4,
+        "team": "Big Ten",
+        "college": "Maryland",
+        "conference": "Big Ten"
+    },
+    {
+        "seed": 13,
+        "team": "Jaspers",
+        "college": "Valparaiso",
+        "conference": "Big Ten"
+    },
+    {
+        "seed": 5,
+        "team": "Mountaineers",
+        "college": "West Virginia",
+        "conference": "Big 12"
+    },
+    {
+        "seed": 12,
+        "team": "Bulls",
+        "college": "Buffalo",
+        "conference": "Big 12"
+    },
+    {
+        "seed": 11,
+        "team": "Flyers",
+        "college": "Dayton",
+        "conference": "Mountain West"
+    },
+    {
+        "seed": 6,
+        "team": "Friars",
+        "college": "Providence",
+        "conference": "Big East"
+    },
+    {
+        "seed": 1,
+        "team": "Badgers",
+        "college": "Wisconsin",
+        "conference": "Big Ten"
+    },
+    {
+        "seed": 16,
+        "team": "Chanticleers",
+        "college": "Coastal Carolina",
+        "conference": "Big Ten"
+    },
+    {
+        "seed": 2,
+        "team": "Jayhawks",
+        "college": "Kansas",
+        "conference": "Big 12"
+    },
+    {
+        "seed": 15,
+        "team": "Aggies",
+        "college": "New Mexico State",
+        "conference": "Big 12"
+    },
+    {
+        "seed": 7,
+        "team": "Shockers",
+        "college": "Wichita State",
+        "conference": "Missouri Valley"
+    },
+    {
+        "seed": 10,
+        "team": "Hoosiers",
+        "college": "Indiana",
+        "conference": "Missouri Valley"
+    },
+    {
+        "seed": 8,
+        "team": "Ducks",
+        "college": "Oregon",
+        "conference": "Pac-12"
+    },
+    {
+        "seed": 9,
+        "team": "Cowboys",
+        "college": "Oklahoma State",
+        "conference": "Pac-12"
+    },
+    {
+        "seed": 2,
+        "team": "Bulldogs",
+        "college": "Gonzaga",
+        "conference": "West Coast"
+    },
+    {
+        "seed": 15,
+        "team": "Bison",
+        "college": "North Dakota State",
+        "conference": "West Coast"
+    },
+    {
+        "seed": 4,
+        "team": "Cardinals",
+        "college": "Louisville",
+        "conference": "ACC"
+    },
+    {
+        "seed": 13,
+        "team": "Anteaters",
+        "college": "UC Irvine",
+        "conference": "ACC"
+    },
+    {
+        "seed": 5,
+        "team": "Panthers",
+        "college": "Northern Iowa",
+        "conference": "Missouri Valley"
+    },
+    {
+        "seed": 12,
+        "team": "Cowboys",
+        "college": "Wyoming",
+        "conference": "Missouri Valley"
+    },
+    {
+        "seed": 7,
+        "team": "Hawkeyes",
+        "college": "Iowa",
+        "conference": "Big Ten"
+    },
+    {
+        "seed": 10,
+        "team": "Wildcats",
+        "college": "Davidson",
+        "conference": "Big Ten"
+    }
+]
