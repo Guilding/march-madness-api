@@ -1,6 +1,6 @@
 {
   "name": "march-madness-api",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Simple API for NCAA March Madness tournament",
   "main": "index.js",
   "scripts": {
@@ -10,5 +10,21 @@
   "license": "MIT",
   "dependencies": {
     "aoot": "^0.1.6"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Mashape/march-madness-api.git"
+  },
+  "keywords": [
+    "ncaa",
+    "api",
+    "http",
+    "basketball",
+    "march-madness"
+  ],
+  "bugs": {
+    "url": "https://github.com/Mashape/march-madness-api/issues"
+  },
+  "homepage": "https://github.com/Mashape/march-madness-api"
 }
