@@ -17,9 +17,19 @@ node api/server.js
 
 Now you have the API running at `127.0.0.1:4444`!
 
-#### API server documentation
+Let's get all the latest game data in the default `JSON` format:
 
-The API has the following endpoints:
+```
+curl 127.0.0.1:4444/games
+```
+
+Here's an example of getting all the teams participating in this years tournament in `csv` format:
+
+```
+curl 127.0.0.1:4444/teams -H "accepts:text/csv"
+```
+
+#### API Reference
 
 #### Endpoints
 
@@ -28,7 +38,13 @@ The API has the following endpoints:
 | /teams                   | returns all teams in the tournament              |
 | /games                   | returns all games in the tournament              |
 
-All the endpoints respond with the correct `content-type` based on the `accepts` header:
+
+#### Response codes
+
+| Code                     | Description                                      |
+| ------------------------ |------------------------------------------------- |
+| 200                      | Everything went according to plans               |
+| 500                      | Something bad happened, check the logs           |
 
 #### Response types
 
@@ -38,15 +54,6 @@ All the endpoints respond with the correct `content-type` based on the `accepts`
 | application/xml          | false                                            |
 | text/csv                 | false                                            |
 | text/tsv                 | false                                            |
-
-All the endpoints respond with the following status codes:
-
-#### Response codes
-
-| Code                     | Description                                      |
-| ------------------------ |------------------------------------------------- |
-| 200                      | Everything went according to plans               |
-| 500                      | Something bad happened, check the logs           |
 
 ### Todos
 
