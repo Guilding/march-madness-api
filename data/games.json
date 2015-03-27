@@ -935,14 +935,14 @@
             "team": "Wildcats",
             "college": "Kentucky",
             "conference": "SEC",
-            "score": "TBD"
+            "score": 78
         },
         "away": {
             "seed": 5,
             "team": "Mountaineers",
             "college": "West Virginia",
             "conference": "Big 12",
-            "score": "TBD"
+            "score": 39
         },
         "label": "Sweet Sixteen"
     },
@@ -953,14 +953,14 @@
             "team": "Fighting Irish",
             "college": "Notre Dame",
             "conference": "ACC",
-            "score": "TBD"
+            "score": 81
         },
         "away": {
             "seed": 7,
             "team": "Shockers",
             "college": "Wichita State",
             "conference": "Missouri Valley",
-            "score": "TBD"
+            "score": 70
         },
         "label": "Sweet Sixteen"
     },
@@ -971,32 +971,32 @@
             "team": "Badgers",
             "college": "Wisconsin",
             "conference": "Big Ten",
-            "score": "TBD"
+            "score": 79
         },
         "away": {
             "seed": 4,
             "team": "Tar Heels",
             "college": "North Carolina",
             "conference": "AAC",
-            "score": "TBD"
+            "score": 72
         },
         "label": "Sweet Sixteen"
     },
     {
         "date": "2015-03-26",
         "home": {
-            "seed": 2,
-            "team": "Wildcats",
-            "college": "Arizona",
-            "conference": "Pac-12",
-            "score": "TBD"
-        },
-        "away": {
             "seed": 6,
             "team": "Musketeers",
             "college": "Xavier",
             "conference": "Big East",
-            "score": "TBD"
+            "score": 60
+        },
+        "away": {
+            "seed": 2,
+            "team": "Wildcats",
+            "college": "Arizona",
+            "conference": "Pac-12",
+            "score": 68
         },
         "label": "Sweet Sixteen"
     },
@@ -1075,17 +1075,17 @@
     {
         "date": "2015-03-28",
         "home": {
-            "seed": "TBD",
-            "team": "TBD",
-            "college": "TBD",
-            "conference": "TBD",
+            "seed": 1,
+            "team": "Wildcats",
+            "college": "Kentucky",
+            "conference": "SEC",
             "score": "TBD"
         },
         "away": {
-            "seed": "TBD",
-            "team": "TBD",
-            "college": "TBD",
-            "conference": "TBD",
+            "seed": 3,
+            "team": "Fighting Irish",
+            "college": "Notre Dame",
+            "conference": "ACC",
             "score": "TBD"
         },
         "label": "Elite Eight"
@@ -1093,17 +1093,17 @@
     {
         "date": "2015-03-28",
         "home": {
-            "seed": "TBD",
-            "team": "TBD",
-            "college": "TBD",
-            "conference": "TBD",
+            "seed": 1,
+            "team": "Badgers",
+            "college": "Wisconsin",
+            "conference": "Big Ten",
             "score": "TBD"
         },
         "away": {
-            "seed": "TBD",
-            "team": "TBD",
-            "college": "TBD",
-            "conference": "TBD",
+            "seed": 2,
+            "team": "Wildcats",
+            "college": "Arizona",
+            "conference": "Pac-12",
             "score": "TBD"
         },
         "label": "Elite Eight"
