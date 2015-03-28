@@ -1007,14 +1007,14 @@
             "team": "Wolfpack",
             "college": "North Carolina State",
             "conference": "ACC",
-            "score": "TBD"
+            "score": 65
         },
         "away": {
             "seed": 4,
             "team": "Cardinals",
             "college": "Louisville",
             "conference": "ACC",
-            "score": "TBD"
+            "score": 75
         },
         "label": "Sweet Sixteen"
     },
@@ -1025,14 +1025,14 @@
             "team": "Sooners",
             "college": "Oklahoma",
             "conference": "Big 12",
-            "score": "TBD"
+            "score": 58
         },
         "away": {
             "seed": 7,
             "team": "Spartans",
             "college": "Michigan State",
             "conference": "Big Ten",
-            "score": "TBD"
+            "score": 62
         },
         "label": "Sweet Sixteen"
     },
@@ -1043,14 +1043,14 @@
             "team": "Blue Devils",
             "college": "Duke",
             "conference": "ACC",
-            "score": "TBD"
+            "score": 63
         },
         "away": {
             "seed": 5,
             "team": "Utes",
             "college": "Utah",
             "conference": "Pac-12",
-            "score": "TBD"
+            "score": 57
         },
         "label": "Sweet Sixteen"
     },
@@ -1061,14 +1061,14 @@
             "team": "Bulldogs",
             "college": "Gonzaga",
             "conference": "West Coast",
-            "score": "TBD"
+            "score": 74
         },
         "away": {
             "seed": 11,
             "team": "Bruins",
             "college": "UCLA",
             "conference": "American",
-            "score": "TBD"
+            "score": 62
         },
         "label": "Sweet Sixteen"
     },
@@ -1111,35 +1111,35 @@
     {
         "date": "2015-03-29",
         "home": {
-            "seed": "TBD",
-            "team": "TBD",
-            "college": "TBD",
-            "conference": "TBD",
+            "seed": 1,
+            "team": "Blue Devils",
+            "college": "Duke",
+            "conference": "ACC",
             "score": "TBD"
         },
         "away": {
-            "seed": "TBD",
-            "team": "TBD",
-            "college": "TBD",
-            "conference": "TBD",
-            "score": "TBD"
+            "seed": 2,
+            "team": "Bulldogs",
+            "college": "Gonzaga",
+            "conference": "West Coast",
+            "score": "TDB"
         },
         "label": "Elite Eight"
     },
     {
         "date": "2015-03-29",
         "home": {
-            "seed": "TBD",
-            "team": "TBD",
-            "college": "TBD",
-            "conference": "TBD",
+            "seed": 4,
+            "team": "Cardinals",
+            "college": "Louisville",
+            "conference": "ACC",
             "score": "TBD"
         },
         "away": {
-            "seed": "TBD",
-            "team": "TBD",
-            "college": "TBD",
-            "conference": "TBD",
+            "seed": 7,
+            "team": "Spartans",
+            "college": "Michigan State",
+            "conference": "Big Ten",
             "score": "TBD"
         },
         "label": "Elite Eight"
