@@ -1079,14 +1079,14 @@
             "team": "Wildcats",
             "college": "Kentucky",
             "conference": "SEC",
-            "score": "TBD"
+            "score": 68
         },
         "away": {
             "seed": 3,
             "team": "Fighting Irish",
             "college": "Notre Dame",
             "conference": "ACC",
-            "score": "TBD"
+            "score": 66
         },
         "label": "Elite Eight"
     },
@@ -1097,14 +1097,14 @@
             "team": "Badgers",
             "college": "Wisconsin",
             "conference": "Big Ten",
-            "score": "TBD"
+            "score": 85
         },
         "away": {
             "seed": 2,
             "team": "Wildcats",
             "college": "Arizona",
             "conference": "Pac-12",
-            "score": "TBD"
+            "score": 78
         },
         "label": "Elite Eight"
     },
@@ -1115,14 +1115,14 @@
             "team": "Blue Devils",
             "college": "Duke",
             "conference": "ACC",
-            "score": "TBD"
+            "score": 66
         },
         "away": {
             "seed": 2,
             "team": "Bulldogs",
             "college": "Gonzaga",
             "conference": "West Coast",
-            "score": "TDB"
+            "score": 52
         },
         "label": "Elite Eight"
     },
@@ -1133,31 +1133,31 @@
             "team": "Cardinals",
             "college": "Louisville",
             "conference": "ACC",
-            "score": "TBD"
+            "score": 70
         },
         "away": {
             "seed": 7,
             "team": "Spartans",
             "college": "Michigan State",
             "conference": "Big Ten",
-            "score": "TBD"
+            "score": 76
         },
         "label": "Elite Eight"
     },
     {
         "date": "2015-04-04",
         "home": {
-            "seed": "TBD",
-            "team": "TBD",
-            "college": "TBD",
-            "conference": "TBD",
+            "seed": 1,
+            "team": "Wildcats",
+            "college": "Kentucky",
+            "conference": "SEC",
             "score": "TBD"
         },
         "away": {
-            "seed": "TBD",
-            "team": "TBD",
-            "college": "TBD",
-            "conference": "TBD",
+            "seed": 1,
+            "team": "Badgers",
+            "college": "Wisconsin",
+            "conference": "Big Ten",
             "score": "TBD"
         },
         "label": "Final Four"
@@ -1165,17 +1165,17 @@
     {
         "date": "2015-04-04",
         "home": {
-            "seed": "TBD",
-            "team": "TBD",
-            "college": "TBD",
-            "conference": "TBD",
+            "seed": 7,
+            "team": "Spartans",
+            "college": "Michigan State",
+            "conference": "Big Ten",
             "score": "TBD"
         },
         "away": {
-            "seed": "TBD",
-            "team": "TBD",
-            "college": "TBD",
-            "conference": "TBD",
+            "seed": 1,
+            "team": "Blue Devils",
+            "college": "Duke",
+            "conference": "ACC",
             "score": "TBD"
         },
         "label": "Final Four"
