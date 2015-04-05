@@ -33,27 +33,27 @@ curl 127.0.0.1:4444/teams -H "accepts:text/csv"
 
 #### Endpoints
 
-| Path                     | Description                                      |
-| -------------------------|------------------------------------------------- |
-| /teams                   | returns all teams in the tournament              |
-| /games                   | returns all games in the tournament              |
+| Path                       | Description                                      |
+| ---------------------------|------------------------------------------------- |
+| `/teams`                   | returns all teams in the tournament              |
+| `/games`                   | returns all games in the tournament              |
 
 
 #### Response codes
 
-| Code                     | Description                                      |
-| ------------------------ |------------------------------------------------- |
-| 200                      | Everything went according to plans               |
-| 500                      | Something bad happened, check the logs           |
+| Code                       | Description                                      |
+| -------------------------- |------------------------------------------------- |
+| `200`                      | Everything went according to plans               |
+| `500`                      | Something bad happened, check the logs           |
 
 #### Response types
 
-| Accepts                  | Default                                          |
-| ------------------------ |------------------------------------------------- |
-| application/json         | true                                             |
-| application/xml          | false                                            |
-| text/csv                 | false                                            |
-| text/tsv                 | false                                            |
+| Accepts                    | Default                                          |
+| -------------------------- |------------------------------------------------- |
+| `application/json`         | true                                             |
+| `application/xml`          | false                                            |
+| `text/csv`                 | false                                            |
+| `text/tsv`                 | false                                            |
 
 ### Todos
 
