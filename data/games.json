@@ -1151,14 +1151,14 @@
             "team": "Wildcats",
             "college": "Kentucky",
             "conference": "SEC",
-            "score": "TBD"
+            "score": 64
         },
         "away": {
             "seed": 1,
             "team": "Badgers",
             "college": "Wisconsin",
             "conference": "Big Ten",
-            "score": "TBD"
+            "score": 71
         },
         "label": "Final Four"
     },
