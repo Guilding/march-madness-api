@@ -1169,14 +1169,14 @@
             "team": "Spartans",
             "college": "Michigan State",
             "conference": "Big Ten",
-            "score": "TBD"
+            "score": 61
         },
         "away": {
             "seed": 1,
             "team": "Blue Devils",
             "college": "Duke",
             "conference": "ACC",
-            "score": "TBD"
+            "score": 81
         },
         "label": "Final Four"
     },
