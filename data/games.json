@@ -1183,18 +1183,18 @@
     {
         "date": "2015-04-06",
         "home": {
-            "seed": "TBD",
-            "team": "TBD",
-            "college": "TBD",
-            "conference": "TBD",
-            "score": "TBD"
+            "seed": 1,
+            "team": "Badgers",
+            "college": "Wisconsin",
+            "conference": "Big Ten",
+            "score": 63
         },
         "away": {
-            "seed": "TBD",
-            "team": "TBD",
-            "college": "TBD",
-            "conference": "TBD",
-            "score": "TBD"
+            "seed": 1,
+            "team": "Blue Devils",
+            "college": "Duke",
+            "conference": "ACC",
+            "score": 68
         },
         "label": "Championship"
     }
